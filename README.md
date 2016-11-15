@@ -1,10 +1,11 @@
 # SPA-simple-examples
-Run simple Sammy app:
+Run simpleSammyApp:
 
 - install node.js
-- navigate to ./simpleSammyApp/public and open cmd
+- navigate to ./simpleSammyApp/public 
+- open cmd
 - execute: npm install 
-- execute: npm install bower -g
+- execute: npm install bower -g 
 - execute: bower install
 - execute: npm install live-server -g
 - execute: live-server
